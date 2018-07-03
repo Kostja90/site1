@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="36d1c69f-c3fd-4970-8068-55153f06c25b" name="XAMPServer" url="http://localhost/">
-        <fileTransfer port="0" mountedRoot="C:\xampp" accessType="MOUNT" />
+      <webServer id="0de246c1-27cb-4319-836a-2a5c63836385" name="GitHubConnection" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\site" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
